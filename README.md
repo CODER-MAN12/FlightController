@@ -46,4 +46,7 @@ To view and modify the hardware blueprints, you will need:
    * Launch KiCad.
    * Click **Open Project** and select `hardware/FlightController.kicad_pro`.
    * The global and local footprint libraries (`fp-lib-table`) will load automatically.
+  
+3. <img width="680" height="625" alt="Screenshot 2026-11-07 210710" src="https://github.com/user-attachments/assets/4c1cd94b-420b-458d-ad7d-716c9755c410" />
+
 
