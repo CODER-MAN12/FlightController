@@ -48,5 +48,7 @@ To view and modify the hardware blueprints, you will need:
    * The global and local footprint libraries (`fp-lib-table`) will load automatically.
   
 3. <img width="680" height="625" alt="Screenshot 2026-11-07 210710" src="https://github.com/user-attachments/assets/4c1cd94b-420b-458d-ad7d-716c9755c410" />
+<img width="498" height="926" alt="Screenshot 2026-11-06 211513" src="https://github.com/user-attachments/assets/87bc04c6-1bbd-46ea-8527-c7d4134128bc" />
+
 
 
